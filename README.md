@@ -1,16 +1,15 @@
 # app_relax
 
-A new Flutter project.
+Proyecto de relajacion creado en flutter para dispositivos Wear OS 
 
-## Getting Started
+# Capturas de la aplicacion 
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/chucho5280/app_relax/assets/96545330/7697236f-e9c6-44a0-8a34-490b6cbcaf05)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/chucho5280/app_relax/assets/96545330/75fe0680-4a82-47eb-829b-5ddbcf1c483a)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/chucho5280/app_relax/assets/96545330/d6e886df-a24c-4903-bc8a-2ccc2db49c0e)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/chucho5280/app_relax/assets/96545330/c23c49d1-2342-494f-b9cd-f443afcf9225)
+
+![image](https://github.com/chucho5280/app_relax/assets/96545330/414c6100-8307-4e65-9e8e-865d922eec2a)
